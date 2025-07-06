@@ -54,6 +54,6 @@ Each `.json` file is a ready-to-import n8n workflow. Below are the highlights.
 Feel free to fork or reach out if you’d like to collaborate or hire!
 
 **👨‍💻 Omar Rashdan**  
-LinkedIn: [linkedin.com/in/omarrshdan](https://linkedin.com/in/omarrshdan)  
-GitHub: [github.com/omarrshdan](https://github.com/omarrshdan)  
+LinkedIn: [linkedin.com/in/omarrshdan](https://www.linkedin.com/in/omar-ahmed-0875aa2b4/)  
+GitHub: [github.com/omarrshdan](https://github.com/phlzas)  
 # -n8n-automation-flows
